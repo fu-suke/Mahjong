@@ -8,3 +8,4 @@
 作品は以下のリンクでプレイ可能です: [yskitf21.github.io](https://yskitf21.github.io/)
 
 現在、大学でオブジェクト指向を学んでおり、この知識を使って近い将来この作品をリファクタリングする予定です。
+![image](https://github.com/yskitf21/Mahjong/assets/96232134/1ba0febd-3c1e-452d-8f0a-c32752a3151a)
